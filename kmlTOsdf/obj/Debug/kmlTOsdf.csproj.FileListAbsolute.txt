@@ -1,0 +1,30 @@
+I:\JMasigan\Personal\Visual Studio Proj Files\kmlTOsdf\kmlTOsdf\bin\Debug\kmlTOsdf.exe.config
+I:\JMasigan\Personal\Visual Studio Proj Files\kmlTOsdf\kmlTOsdf\bin\Debug\Geol.sdf
+I:\JMasigan\Personal\Visual Studio Proj Files\kmlTOsdf\kmlTOsdf\bin\Debug\kmlTOsdf.exe
+I:\JMasigan\Personal\Visual Studio Proj Files\kmlTOsdf\kmlTOsdf\bin\Debug\kmlTOsdf.pdb
+I:\JMasigan\Personal\Visual Studio Proj Files\kmlTOsdf\kmlTOsdf\obj\Debug\kmlTOsdf.csprojResolveAssemblyReference.cache
+I:\JMasigan\Personal\Visual Studio Proj Files\kmlTOsdf\kmlTOsdf\obj\Debug\MainWindow.baml
+I:\JMasigan\Personal\Visual Studio Proj Files\kmlTOsdf\kmlTOsdf\obj\Debug\MainWindow.g.cs
+I:\JMasigan\Personal\Visual Studio Proj Files\kmlTOsdf\kmlTOsdf\obj\Debug\App.g.cs
+I:\JMasigan\Personal\Visual Studio Proj Files\kmlTOsdf\kmlTOsdf\obj\Debug\kmlTOsdf_Content.g.cs
+I:\JMasigan\Personal\Visual Studio Proj Files\kmlTOsdf\kmlTOsdf\obj\Debug\kmlTOsdf_MarkupCompile.cache
+I:\JMasigan\Personal\Visual Studio Proj Files\kmlTOsdf\kmlTOsdf\obj\Debug\kmlTOsdf.g.resources
+I:\JMasigan\Personal\Visual Studio Proj Files\kmlTOsdf\kmlTOsdf\obj\Debug\kmlTOsdf.Properties.Resources.resources
+I:\JMasigan\Personal\Visual Studio Proj Files\kmlTOsdf\kmlTOsdf\obj\Debug\kmlTOsdf.csproj.GenerateResource.Cache
+I:\JMasigan\Personal\Visual Studio Proj Files\kmlTOsdf\kmlTOsdf\obj\Debug\kmlTOsdf.exe
+I:\JMasigan\Personal\Visual Studio Proj Files\kmlTOsdf\kmlTOsdf\obj\Debug\kmlTOsdf.pdb
+C:\Users\jmasigan\Desktop\kmlTOsdf\kmlTOsdf\bin\Debug\kmlTOsdf.exe.config
+C:\Users\jmasigan\Desktop\kmlTOsdf\kmlTOsdf\obj\Debug\kmlTOsdf.exe
+C:\Users\jmasigan\Desktop\kmlTOsdf\kmlTOsdf\obj\Debug\kmlTOsdf.pdb
+C:\Users\jmasigan\Desktop\kmlTOsdf\kmlTOsdf\bin\Debug\Geol.sdf
+C:\Users\jmasigan\Desktop\kmlTOsdf\kmlTOsdf\bin\Debug\kmlTOsdf.exe
+C:\Users\jmasigan\Desktop\kmlTOsdf\kmlTOsdf\bin\Debug\kmlTOsdf.pdb
+C:\Users\jmasigan\Desktop\kmlTOsdf\kmlTOsdf\obj\Debug\kmlTOsdf.csprojResolveAssemblyReference.cache
+C:\Users\jmasigan\Desktop\kmlTOsdf\kmlTOsdf\obj\Debug\MainWindow.baml
+C:\Users\jmasigan\Desktop\kmlTOsdf\kmlTOsdf\obj\Debug\MainWindow.g.cs
+C:\Users\jmasigan\Desktop\kmlTOsdf\kmlTOsdf\obj\Debug\App.g.cs
+C:\Users\jmasigan\Desktop\kmlTOsdf\kmlTOsdf\obj\Debug\kmlTOsdf_Content.g.cs
+C:\Users\jmasigan\Desktop\kmlTOsdf\kmlTOsdf\obj\Debug\kmlTOsdf_MarkupCompile.cache
+C:\Users\jmasigan\Desktop\kmlTOsdf\kmlTOsdf\obj\Debug\kmlTOsdf.g.resources
+C:\Users\jmasigan\Desktop\kmlTOsdf\kmlTOsdf\obj\Debug\kmlTOsdf.Properties.Resources.resources
+C:\Users\jmasigan\Desktop\kmlTOsdf\kmlTOsdf\obj\Debug\kmlTOsdf.csproj.GenerateResource.Cache
